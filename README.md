@@ -1,5 +1,5 @@
 # python-docs-ru
-This is where -ru translation of Python documentation stored. 
+This is where -ru translation of Python documentation is stored. 
 
 # Documentation Contribution Agreement
 
